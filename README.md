@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaythanak&label=Profile%20views&color=0e75b6&style=flat" alt="abhaythanak" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://abhaythanakportfolio.netlify.app/](https://abhaythanakportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://abhayportfolio1997.netlify.app/](https://abhayportfolio1997.netlify.app/)
 
 - 📫 How to reach me **abhaythanak@gmail.com**
 
